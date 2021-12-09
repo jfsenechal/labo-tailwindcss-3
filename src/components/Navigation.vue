@@ -3,7 +3,7 @@
     <li class="nav-top">
       <a href="#">Vivre à Marche</a>
     </li>
-    <li class="text-center cursor-pointer text-cta-dark">
+    <li class="nav-top">
       <a href="#">E-guichet</a>
     </li>
     <li class="nav-top">

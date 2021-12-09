@@ -8,7 +8,7 @@ module.exports = {
             },
             colors: {
                 cta: {
-                    clear: '#4ae0c7',
+                    light: '#4ae0c7',
                     dark: '#487F89FF'
                 }
             },
