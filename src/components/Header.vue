@@ -4,7 +4,7 @@ import IconesSocial from "./IconesSocial.vue";
 </script>
 
 <template>
-  <header class="flex justify-end items-center">
+  <header class="flex justify-end items-center p-3">
     <a href="#">
       <img class="w-85 h-50" alt="logo"
            src="https://www.marche.be/wp-content/themes/marchebe/assets/tartine/rsc/img/img_logo.png"/>
