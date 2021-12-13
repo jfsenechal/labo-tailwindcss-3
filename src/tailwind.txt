@@ -20,9 +20,9 @@ https://play.tailwindcss.com/kwMF9NtnIn?size=1000x500 avec flex
 footer
 https://play.tailwindcss.com/FF3sACeN78?size=1000x500 flex
 
-https://play.tailwindcss.com/d9SQv7KC1p?size=1000x700
+https://play.tailwindcss.com/d9SQv7KC1p?size=1000x700 header, content, footer
 
-https://play.tailwindcss.com/bNVDIofD2N?size=1050x650
+https://play.tailwindcss.com/bNVDIofD2N?size=1050x650 grille news
 
-https://play.tailwindcss.com/jQjQLsSitN?size=1000x700
+https://play.tailwindcss.com/jQjQLsSitN?size=1000x700 grille news
 
